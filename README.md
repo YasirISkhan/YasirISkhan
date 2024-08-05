@@ -28,7 +28,7 @@ Hi 👋, I am Yasir khan, Software Engineer by profession and a Tourist 🏕️�
 
 # Educational Projects / Research Projects 💻:
 
-## c. BS(CS)  (2016):
+## c. BS(CS)  (2021):
 |  Sr. No. | Title | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" /> | Application Link |
 |  :---    | :---  | :---: | :--- |
 |  1.      |  OVBTP, A Secure AI based Web Application for Venue Booking and Tour Planning  | <a href="https://github.com/rashidrao-pk/Online-Venure-Booking-and-Tour-Planning"> GITHUB </a> | <a href="http://www.ovbtp.com">  OVBTP Website </a> |
@@ -79,7 +79,12 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 | 5. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
 
 
+<br>
 
+# Work Experience / Full-Time 💻:
+| S.No   | Title | Company | Period | Organization Link |
+|  :---  | :---  | :---: | :--- |
+|  1     |  Machine Learning Engineer | Science and Technology & Information Technology (ST&IT)  | 2023-Present | <a href="(https://stit.kp.gov.pk/)"> Website </a> |
 
 
 
