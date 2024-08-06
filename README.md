@@ -37,19 +37,15 @@ Hi 👋, I am Yasir khan, Software Engineer by profession and a Tourist 🏕️�
 <br>
 
 # All Research Articles / Publications 📊📝:
-After getting motivated, i did my research in Computer Vision and Mahcine Learning Field and published following research articles:
-|  Sr. No. | Title | Journal /<br> Conferencce | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> | Codes <img src="https://cdn.jsdelivr.net/gh/DmitryRyumin/NewEraAI-Papers@main/images/github_code_developer.svg" width="27" alt="" />  |
-| :------: | ----- | ------- | :---: | :--------: | :---------: |
-| 1. | Can I trust my anomaly detection system? A case study. | XAI-World <img src="https://xaiworldconference.com/2024/wp-content/uploads/2023/10/cropped-xai_2024_250x250-2.png" width="30" alt="" /> | 10 July 2024 | [PDF Link](https://link.springer.com/chapter/10.1007/978-3-031-63803-9_13) | [Anomaly detection system](https://github.com/rashidrao-pk/anomaly_detection_trust_case_study) |
-| 2. | Using Stratified Sampling to Improve LIME Image Explanations. | AAAI-24   | 24-03-2024 | [PDF Link](https://ojs.aaai.org/index.php/AAAI/article/view/29397) |  [Stratified LIME](https://github.com/rashidrao-pk/lime_stratified)<br> [Examples](https://github.com/rashidrao-pk/lime-stratified-examples) |
-| 3. | A Novel Light U-Net Model for Left Ventricle Segmentation Using MRI. | Methematics | 24 July 2023 | [PDF Link](https://www.mdpi.com/2227-7390/11/14/3245) |  [GitHub Repo](https://github.com/rashidrao-pk/A-Novel-Light-Unet-Model-for-Left-Ventricle-Segmentation-Using-MRI) |
-| 4. | A sustainable deep learning framework for object recognition using multi-layers deep features fusion and selection | Sustainability | 19 June 2020 | [PDF Link](https://link.springer.com/article/10.1007/s11042-018-7031-0) | [GitHub Repo ](https://github.com/rashidrao-pk/Object-Detection-and-Classification-A-Joint-Selection-and-Fusion-Strategy-of-Deep-Convolutional-Neu). |
-| 5. | An Optimized Approach for Breast Cancer Classification for Histopathological Images Based on Hybrid Feature Set. | Current medical imaging | 22 Apr 2020 |[PDF Link](https://www.ingentaconnect.com/content/ben/cmir/2021/00000017/00000001/art00016)  | [GitHub Repo](https://github.com/rashidrao-pk/An-Optimized-Approach-for-Breast-Cancer-Classification-for-Histopathological-Images-Based-on-Hybrid-) |
-| 6. | Deep CNN and geometric features-based gastrointestinal tract diseases detection and classification from wireless capsule endoscopy images. | Journal of Experimental & Theoretical Artificial Intelligence | 02 Feb 2019 | [PDF Link](https://www.tandfonline.com/doi/abs/10.1080/0952813X.2019.1572657) | [GitHub Repo](https://github.com/rashidrao-pk/Deep-CNN-and-geometric-features-based-gastrointestinal-tract-diseases-detection-and-classification-f) |
-| 7. | Classification of Gastrointestinal Diseases of Stomach from WCE using the improved Saliency-based method and Color Features. | Multimedia Tools and Applications | 06 Jun 2019 | [PDF Link](https://link.springer.com/article/10.1007/s11042-019-07875-9) | [GitHub Repo](https://github.com/rashidrao-pk/Classification-of-Gastrointestinal-Diseases-of-Stomach-from-WCE-using-the-improved-Saliency-based-me) |
-| 8. | An integrated framework of skin lesion detection and recognition through saliency method and optimal deep neural network features selection. | Neural Computing and Applications | 08 Nov 2019 | [PDF Link](https://link.springer.com/article/10.1007/s00521-019-04514-0) | [GitHub Repo](https://github.com/rashidrao-pk/An-integrated-framework-of-skin-lesion-detection-and-recognition-through-saliency-method-and-optimal) |
-| 9. | Object Detection and Classification: A Joint Selection and Fusion Strategy of Deep Convolutional Neural Network and SIFT Point Features. | Multimedia Tools and Applications | 08 Dec 2018 | [PDF Link](https://www.mdpi.com/2071-1050/12/12/5037) | [GitHub Repo](https://github.com/rashidrao-pk/A-sustainable-deep-learning-framework-for-object-recognition-using-multi-layers-deep-features-fusion) |
-
+Having expertise in Machine learning and cybersecurity, I have got the following papers accepted in various conferences and books:
+|  Sr. No. | Title | Journal / Conferencce / Book | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> |
+| :------: | ----- | ------- | :---: | :--------: | 
+| 1. | AI-driven Modern Cybersecurity Approach: A Systematic Literature Review | 2nd International Conference on Emerging Trends & Innovation (ICETI) | 29-30 July 2024 | [PDF Link](https://aieys.com/iceti_v2/program.html) |  |
+| 2. | Artificial Intelligence and Labor Market Dynamics | International Conference on Decade of CPEC & BRI: From Vision to Reality  | 24-25th July 2023 | [PDF Link](https://www.cpec.gov.pk/brain/public/uploads/cpec10y/cpecintconf2023/Abstract_Book_Revised.pdf) | |
+| 3. | Blockchain-enabled Cyber security: Applications, Limitations, and Challenges | Artificial Intelligence for Blockchain and Cybersecurity powered IoT Applications | Accepted June 2024 | [PDF Link](https://www.routledge.com/Artificial-Intelligence-for-Blockchain-and-Cybersecurity-Powered-IoT-Applications/Ouaissa-Ouaissa-Boulouard-Kumar-Sharma-Kaushik/p/book/9781032802381) |  |
+| 4. | Cybersecurity Challenges for AGI Drones in Climate Change Missions | Artificial General Intelligence-Based Drones for Climate Change | Accepted June 2024 | [PDF Link](https://www.igi-global.com/publish/call-for-papers/call-details/7512) |  |
+| 5. | Advancement in ML Techniques and Applications for UAV Swarm Management | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | Accepted July 2024 |[PDF Link]()  | |
+| 6. | SECURITY AND PRIVACY IN AG-IOT-ENABLED UNMANNED AERIAL VEHICLES FOR SMART CITIES | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | July 2024 | [PDF Link]() |  |
 
 <br>
         
@@ -57,53 +53,65 @@ After getting motivated, i did my research in Computer Vision and Mahcine Learni
 ##  a. Certificates of Skills:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
-| 1.    | OxML Generative AI & Representation Learning | Oxford University,UK |  July 2024 |    ---    | 11-14 July 2024   |  [LINK](https://www.oxfordml.school/replearning)   |
-| 2.   | OxML Health & Bio                             | Oxford University,UK | July 2024 |  ---       | 6-9 July 2024     |  [LINK](https://www.oxfordml.school/health)   |
-| 3. | Introduction to TensorFlow for Artificial Intelligence,Machine Learning, and Deep Learning | DeepLearning.AI  | 12-Jun-2024                   |  100%       |   17 hours     |     <a href='https://coursera.org/share/c92c13ff02cf8e09592af5bf8fcb0d0e'> Yes </a>    |
-| 4. | Introduction to Generative AI | Google                            | 25-Mar-2024                   | -----       |   -------     |     <a href='https://www.cloudskillsboost.google/public_profiles/3924a3ad-b31b-42f5-b55b-6753ba136fb0/badges/8435493?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share'> Yes </a>    |
-| 5. | Unlocking Grant Success with Funding Institutional | Researcher Academy | 15-Mar-2024                   | -----       |   -------     |    <a href='https://www.linkedin.com/posts/rashid-rao-cuipakistan_unlocking-grant-success-with-funding-institutional-activity-7177617228719112192-CcIc?utm_source=share&utm_medium=member_desktop'> Yes </a>    |
-| 6. | How to Protect your Data          | RuleX                            | 08-Jan-2024                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1FwmLfBSHWwRJdBjBv_khjoyEgVHhD-gO/view?usp=sharing'> Yes </a> |
-| 7. | Reviewer in Scientific Journal    | IJEECS                            | 23-Nov-2022                   | -----       |   -------     |     <a href='https://drive.google.com/file/d/1r9EEOnvTWt6H2K-SmyowuiUtaBIWh7xU/view?usp=sharing'> Yes </a>   |
-| 8. | AI for Everyone                   | DeepLearning.AI - Coursera                       | Sep-2022                      | 94.37       |   4 Weeks     |     <a href = 'https://www.coursera.org/account/accomplishments/verify/XFEK65GWB3MF'> Link </a>    |
-| 9. | PHP Programming (Web Development) | Buraq Institute of Science and Technology        | 12th-Apr-2014 ~ 1st-Jul-2014  | -           |   3 Months    |     <a href='https://drive.google.com/file/d/1K686f8rWsElKnx3g8lmmIc5j7OqL6bZI/view?usp=sharing'> Yes </a>    |
+| 1.    | Google Cybersecurity Specialization          | Google               |  Feb 2024       |    100%   | Nov 2023-Feb 2024   |  [LINK](https://www.credly.com/badges/9e9a8ba9-c007-4433-b91e-201fcd5c6148)   |
+| 2.   | Ethical Hacking Essentials (EHE)              | EC-Council           | Nov 2023        |  86%     |     |  [LINK](https://coursera.org/verify/Z3ZSAZP7C5GH)   |
+| 3. | Introduction to Artificial Intelligence         | IBM                  | June 2023       |  84%     |   17 hours     | <a href='https://coursera.org/share/7d88d756b1d3c484a8f1a4d665dd0f1d'> LINK </a>    |
+| 4. | Complete Pandas for absolute beginners 2023     | Udemy                | Oct 2023                   | -----       |   -------     |     <a href='https://www.udemy.com/certificate/UC-38e2443a-93df-4de7-b032-502b4d7aea70/'> LINK </a>    |
+| 5. | The Nuts and Bolts of Machine Learning          | Google                 | Feb 2024      | 89%      |   36 hours     |    <a href='https://coursera.org/share/5be0c45096e5313582131d8cee633544'> LINK </a>    |
+| 6. | Generative AI in Cybersecurity                  | Edureka                | Feb 2024      | -----       | 1 Week   |     <a href='https://coursera.org/share/dff2cbb57ab25c8212bddb5db0bfd546'> LINK </a> |
+| 7. | Identifying Security Vulnerabilities in ML Algorithms    | University of California, Davis | Oct 2023   | -----       | 4 Weeks    |     <a href='https://coursera.org/share/7abcc61681d2854d1c016c9ed84baa70'> LINK </a>   |
+| 8. | The Bits and Bytes of Computer Networking                 | Google      | Sep-2023                     | 92%       |   25 Weeks     |     <a href = 'https://coursera.org/share/3cfebc43ebb5a0d2b2ce8702fbc34263'> Link </a>    |
+| 9. | Linux Fundamentals | LearnQuest      | Oct 2023  |     93%       |   17 hours    |     <a href='https://coursera.org/share/f7a7911d904f0e4b3be10e81ade3f95a'> LINK </a>    |
 
 <br>
 
 ##  b. Certificates of Attendance:
 | Sr. No. | Certificate Name   | Issued By                                         |    Dated  |   Location          |      From-To      |        Certificate |
 | :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
-| 1.  | XAI-World (Conference) | World Conference on eXplainable Artificial Intelligence        | July 2024 |  Valletta,Malta     | 17-19 July 2024   |  [LINK](https://xaiworldconference.com/2024/)   |
-| 2. | AAAI24 (Conference) | Association for the Advancement of Artificial Intelligence (AAAI) | Feb 2024  |  Vancouver, Canada  | 22-27 Feb 2024   |     [LINK](/files/AAAI-24_Certificate.jpeg)   |
-| 3. | ECML-PKDD (Conference) | European Conference on Machine Learning-PKDD                    | Sep 2023  |     Turin,Italy     | Sep 2023   |   18-22 Sep 2023   | [LINK](#) |
-| 4. | AI for Health (Subject from School) | Bertinoro International Spring School (BISS-23)            | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
-| 5. | Hybrid Quantum Computing (Subject from School) | Bertinoro International Spring School (BISS-23)       | Mar 2023  |     Bologna,Italy   | XX-XX Mar 2023   |     [LINK](#)   |
+| 1.  | Decade of CPEC & BRI (Conference) | International Conference on Decade of CPEC & BRI: From Vision to Reality        | July 2023 |  Islamabad, Pakistan    | 23-24 July 2023   |  [LINK](https://cpec.gov.pk/conference)   |
+| 2. |  ICETI-2024 (Conference) | 2nd International Conference on Emerging Trends & Innovation (ICETI) | July 2024  |  Islamabad, Pakistan  | 29-30 July 2024   |     [LINK](https://aieys.com/iceti_v2/iceti.html)   |
+| 3. | Cyberus Summer School (Remote) | Cyberus Summer School 2023 (Online)                   | July 2023  |     France     |  3-7 July 2023  |  [LINK](https://master-cyberus.eu/news/conferences/join-the-cyberus-summer-school-2023)    |  |
+| 4. | Cybersecurity Hackathon Workshop | Digital Pakistan Cybersecurity Hackathon Workshop           | Oct 2023  |     Peshawar, Pakistan  | 4-8 Oct 2023   |     [LINK](https://cyberhackathon.pk/)   |
 
+
+
+# Work Experience | Full-Time 💻:
+
+## Since 2021:
+|  Sr. No. | Title | Company  | Period | Website Link |
+|  :---    | :---  | :---: | :--- |  :--- |
+|  1.      |  Machine Learning Engineer | Science and Technology & Information Technology (ST&IT) | Nov 2023-Present | <a href="https://stit.kp.gov.pk/">  Website </a> |
+|  2.      |  Visiting CS Lecturer      | Afridi Model School & College                           | May 2024-Present | <a href="https://amscollege.com.pk/">  Website </a> |
+|  3.      |  Young Professional Officer (YPO) | Finance Department, Government of KP             | Nov 2021- Nov 2023 | <a href="https://kprmp.gov.pk/">  Website </a> |
+|  4.      |  AI Curricula Consultant | Science and Technology & Information Technology (ST&IT)      | July 2023    | <a href="https://stit.kp.gov.pk/">  Website </a> |
 
 <br>
 
-# Work Experience / Full-Time 💻:
-| S.No   | Title | Company | Period | Organization Link |
-|  :---  | :---  | :---: | :--- |
-|  1     |  Machine Learning Engineer | Science and Technology & Information Technology (ST&IT)  | 2023-Present | <a href="(https://stit.kp.gov.pk/)"> Website </a> |
+# Advanced Internships 💻:
+## On-site & Remote
+|  Sr. No. | Title | Company  | Nature | Period | Website Link |
+|  :---    | :---  | :---: | :--- |  :--- | :--- |
+|  1.      |  Machine Learning & InfoSec Intern | Corvit Systems Peshawar Campus | On-site | April 2023- Sep 2023 | <a href="https://corvitpeshawar.com/">  Website </a> |
+|  2.      |  Red Team Engineer    | Virtually Testing Foundation          | Remote        | July 2023- Sep 2023 | <a href="https://vt.foundation/">  Website </a> |
+|  3.      |  Cloud Security Intern | Virtually Testing Foundation         | Remote        | Nov 2023- Jan 2024 | <a href="https://vt.foundation/">  Website </a> |
 
-
-
+<br>
 
 # Profile Links 📫:
 
 |  Platform | Link  |
 | --------- | ----- |
-| Google Scholar  | [https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ](https://scholar.google.com.pk/citations?user=F5u_Z5MAAAAJ)  |
-| Scopus  | [https://www.scopus.com/authid/detail.uri?authorId=57417085200](https://www.scopus.com/authid/detail.uri?authorId=57417085200)  |
-| LinkedIn  | [https://www.linkedin.com/in/rashid-rao-cuipakistan/](https://www.linkedin.com/in/rashid-rao-cuipakistan/)  |
-| ResearchGate  | [https://www.researchgate.net/profile/Muhammad-Rashid-65](https://www.researchgate.net/profile/Muhammad-Rashid-65)  |
-| SementicScholor  | [https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837](https://www.semanticscholar.org/author/Muhammad-Rashid/2293444837)  |
-| Web of Science  | [https://www.webofscience.com/wos/author/record/KSM-3480-2024](https://www.webofscience.com/wos/author/record/KSM-3480-2024)  |
-| ORCID  | [https://orcid.org/0000-0002-2557-6845](https://orcid.org/0000-0002-2557-6845/)  |
-| UnderLine  | [https://underline.io/speakers/254136-muhammad-rashid](https://underline.io/speakers/254136-muhammad-rashid)  |
-| Sciprofiles  | [https://sciprofiles.com/profile/rashidmuhammad](https://sciprofiles.com/profile/rashidmuhammad)  |
-| Loop Frontiersin  | [https://loop.frontiersin.org/people/2290013](https://loop.frontiersin.org/people/2290013)  |
-| Cousera  | [https://www.coursera.org/learner/rashidrao-pk](https://www.coursera.org/learner/rashidrao-pk)  |
+| Google Scholar  | [https://scholar.google.com.pk/)  |
+| Scopus  | [https://www.scopus.com/)  |
+| LinkedIn  | [https://www.linkedin.com/in/)  |
+| ResearchGate  | [https://www.researchgate.net/profile/)  |
+| SementicScholor  | [https://www.semanticscholar.org/)  |
+| Web of Science  | [https://www.webofscience.com/wos/)  |
+| ORCID  | [https://orcid.org/0000-0002-2557-6845]()  |
+| UnderLine  | [https://underline.io/)  |
+| Sciprofiles  | [https://sciprofiles.com/profile/)  |
+| Loop Frontiersin  | [https://loop.frontiersin.org/people/)  |
+| Cousera  | [https://www.coursera.org/learner/)  |
 
 <br>
 
