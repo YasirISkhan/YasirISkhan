@@ -97,6 +97,18 @@ Having expertise in Machine learning and cybersecurity, I have got the following
 
 <br>
 
+# Awards/Competitions:
+|  Sr. No. | Title/Rank | Competition  | Issued By | Date | Certificate Link |
+|  :---    | :---  | :---: | :--- |  :--- | :--- |
+|  1.      |  Winner | Speed Programming Competition (Python) | Northern University Wattar Campus | April 2019 | <a href="https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert5.png">  Certificate </a> |
+|  2.      |  Winner    | English Essay Writing Competition  | District Administration Nowshera/District Youth Affaris | Oct 2023 | <a href="https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert6.png">  Certificate </a> |
+|  3.      | Runner-Up  | Emerging Technologies Competition (ICUETC-18) | Islamia College, Peshawar, Government of KP | January 2019 | <a href="https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert4.png">  Certificate </a> |
+|  4.      | 5th Among 50+ teams  | Cybersecurity Hackathon 2023 | Ministry of IT and Telecom | October 2023 | <a href="https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert7.png">  Certificate </a> |
+|  5.      | 8th Rank | 3rd National Digital Pakistan Cyber security Hackathon | IMSciences University, Peshawar | November 2023 | <a href="https://ignite.org.pk/cyberhackathon/">  Participation LINK </a> |
+|  6.      | Intern of Excellence Award | Red Team Engineer Internship | Virtually Testing Foundation | 2023 | <a href="https://vt.foundation/">  LINK </a> |
+|  7.      | Dean's List Award | Three Times Named on Dean's List | AWKUM | 2017-2022 | <a href="#">  LINK </a> |
+
+<br>
 # Profile Links 📫:
 
 |  Platform | Link  |
