@@ -40,12 +40,12 @@ Hi 👋, I am Yasir khan, Software Engineer by profession and a Tourist 🏕️�
 Having expertise in Machine learning and cybersecurity, I have got the following papers accepted in various conferences and books:
 |  Sr. No. | Title | Journal / Conferencce / Book | Dated | Paper <img src="https://w7.pngwing.com/pngs/784/212/png-transparent-google-scholar-hd-logo.png" width="27" alt="" /> |
 | :------: | ----- | ------- | :---: | :--------: | 
-| 1. | AI-driven Modern Cybersecurity Approach: A Systematic Literature Review | 2nd International Conference on Emerging Trends & Innovation (ICETI) | 29-30 July 2024 | [PDF Link](https://aieys.com/iceti_v2/program.html) |  |
+| 1. | AI-driven Modern Cybersecurity Approach: A Systematic Literature Review | 2nd International Conference on Emerging Trends & Innovation (ICETI) | 29-30 July 2024 | [PDF Link](https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert3.png) |  |
 | 2. | Artificial Intelligence and Labor Market Dynamics | International Conference on Decade of CPEC & BRI: From Vision to Reality  | 24-25th July 2023 | [PDF Link](https://www.cpec.gov.pk/brain/public/uploads/cpec10y/cpecintconf2023/Abstract_Book_Revised.pdf) | |
 | 3. | Blockchain-enabled Cyber security: Applications, Limitations, and Challenges | Artificial Intelligence for Blockchain and Cybersecurity powered IoT Applications | Accepted June 2024 | [PDF Link](https://www.routledge.com/Artificial-Intelligence-for-Blockchain-and-Cybersecurity-Powered-IoT-Applications/Ouaissa-Ouaissa-Boulouard-Kumar-Sharma-Kaushik/p/book/9781032802381) |  |
 | 4. | Cybersecurity Challenges for AGI Drones in Climate Change Missions | Artificial General Intelligence-Based Drones for Climate Change | Accepted June 2024 | [PDF Link](https://www.igi-global.com/publish/call-for-papers/call-details/7512) |  |
-| 5. | Advancement in ML Techniques and Applications for UAV Swarm Management | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | Accepted July 2024 |[PDF Link]()  | |
-| 6. | SECURITY AND PRIVACY IN AG-IOT-ENABLED UNMANNED AERIAL VEHICLES FOR SMART CITIES | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | July 2024 | [PDF Link]() |  |
+| 5. | Advancement in ML Techniques and Applications for UAV Swarm Management | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | Accepted July 2024 |[PDF Link](https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert1.png)  | |
+| 6. | SECURITY AND PRIVACY IN AG-IOT-ENABLED UNMANNED AERIAL VEHICLES FOR SMART CITIES | Unmanned Aerial Vehicles Swarm for Protecting Smart Cities: Future Trends & Challenges | July 2024 | [PDF Link](https://github.com/YasirISkhan/Files/blob/6f236ff936d9f39b93868f305120c3f1db5b6e9e/Cert2.png) |  |
 
 <br>
         
