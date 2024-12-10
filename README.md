@@ -16,7 +16,7 @@
 # Yasir khan
 <br>
 
-Hi 👋, I am Yasir khan, Software Engineer by profession and a Tourist 🏕️🏔️ by passion. I love to find solution to real-world problems. As far as my passion is concerned, I love adventures 🚣 in my life and in my professional field.  👨🏻‍💻
+Hi 👋, I am Yasir khan, Machine Learning Engineer by profession and an Ethical Hacker🕵️‍♂️ by passion. I love to find solution to real-world problems. As far as my passion is concerned, I love adventures 🚣 in my life and in my professional field.  👨🏻‍💻
 
 # Educational Achievements 🎓: 
 
@@ -53,15 +53,18 @@ Having expertise in Machine learning and cybersecurity, I have got the following
 ##  a. Certificates of Skills:
 | Sr. No. | Certificate Name                           | Issued By            |   Dated         | Grade (%) | Course Length | Certificate |
 | :---: | ------------------                           | ------------         |   :---:         |   :---:   |   :---:       |     :---:   |
-| 1.    | Google Cybersecurity Specialization          | Google               |  Feb 2024       |    100%   | Nov 2023-Feb 2024   |  [LINK](https://www.credly.com/badges/9e9a8ba9-c007-4433-b91e-201fcd5c6148)   |
-| 2.   | Ethical Hacking Essentials (EHE)              | EC-Council           | Nov 2023        |  86%     |     |  [LINK](https://coursera.org/verify/Z3ZSAZP7C5GH)   |
-| 3. | Introduction to Artificial Intelligence         | IBM                  | June 2023       |  84%     |   17 hours     | <a href='https://coursera.org/share/7d88d756b1d3c484a8f1a4d665dd0f1d'> LINK </a>    |
-| 4. | Complete Pandas for absolute beginners 2023     | Udemy                | Oct 2023                   | -----       |   -------     |     <a href='https://www.udemy.com/certificate/UC-38e2443a-93df-4de7-b032-502b4d7aea70/'> LINK </a>    |
-| 5. | The Nuts and Bolts of Machine Learning          | Google                 | Feb 2024      | 89%      |   36 hours     |    <a href='https://coursera.org/share/5be0c45096e5313582131d8cee633544'> LINK </a>    |
-| 6. | Generative AI in Cybersecurity                  | Edureka                | Feb 2024      | -----       | 1 Week   |     <a href='https://coursera.org/share/dff2cbb57ab25c8212bddb5db0bfd546'> LINK </a> |
-| 7. | Identifying Security Vulnerabilities in ML Algorithms    | University of California, Davis | Oct 2023   | -----       | 4 Weeks    |     <a href='https://coursera.org/share/7abcc61681d2854d1c016c9ed84baa70'> LINK </a>   |
-| 8. | The Bits and Bytes of Computer Networking                 | Google      | Sep-2023                     | 92%       |   25 Weeks     |     <a href = 'https://coursera.org/share/3cfebc43ebb5a0d2b2ce8702fbc34263'> Link </a>    |
-| 9. | Linux Fundamentals | LearnQuest      | Oct 2023  |     93%       |   17 hours    |     <a href='https://coursera.org/share/f7a7911d904f0e4b3be10e81ade3f95a'> LINK </a>    |
+| 1.    | The Machine Learing Process A-Z          | 365 Data Science               |  Nov 2024      |    100%   | 1 Nov 2024- 21 Nov 2024   |  [LINK](https://learn.365datascience.com/certificates/CC-4500DCA8FF/)   |
+| 2.    | The Machine Learing Algorithms A-Z          | 365 Data Science               |  Nov 2024      |    100%   | 1 Nov 2024- 21 Nov 2024   |  [LINK](https://learn.365datascience.com/certificates/CC-30A9C1DA62/)   |
+| 3.    | Machine Learning Deep Dive: Business Applications & Coding Walkthroughs         | 365 Data Science               |  Nov 2024      |    100%   | 1 Nov 2024- 21Nov 2024   |  [LINK](https://learn.365datascience.com/certificates/CC-D0DFAB18BF/)   |
+| 4.    | Google Cybersecurity Specialization          | Google               |  Feb 2024       |    100%   | Nov 2023-Feb 2024   |  [LINK](https://www.credly.com/badges/9e9a8ba9-c007-4433-b91e-201fcd5c6148)   |
+| 5.   | Ethical Hacking Essentials (EHE)              | EC-Council           | Nov 2023        |  86%     |     |  [LINK](https://coursera.org/verify/Z3ZSAZP7C5GH)   |
+| 6. | Introduction to Artificial Intelligence         | IBM                  | June 2023       |  84%     |   17 hours     | <a href='https://coursera.org/share/7d88d756b1d3c484a8f1a4d665dd0f1d'> LINK </a>    |
+| 7. | Machine Learning in Python     | 365 Data Science                | Nov 2024                   | -----       |   -------     |     <a href='https://learn.365datascience.com/certificates/CC-6654FC40CD/'> LINK </a>    |
+| 8. | The Nuts and Bolts of Machine Learning          | Google                 | Feb 2024      | 89%      |   36 hours     |    <a href='https://coursera.org/share/5be0c45096e5313582131d8cee633544'> LINK </a>    |
+| 9. | Generative AI in Cybersecurity                  | Edureka                | Feb 2024      | -----       | 1 Week   |     <a href='https://coursera.org/share/dff2cbb57ab25c8212bddb5db0bfd546'> LINK </a> |
+| 10. | Identifying Security Vulnerabilities in ML Algorithms    | University of California, Davis | Oct 2023   | -----       | 4 Weeks    |     <a href='https://coursera.org/share/7abcc61681d2854d1c016c9ed84baa70'> LINK </a>   |
+| 11. | The Bits and Bytes of Computer Networking                 | Google      | Sep-2023                     | 92%       |   25 Weeks     |     <a href = 'https://coursera.org/share/3cfebc43ebb5a0d2b2ce8702fbc34263'> Link </a>    |
+| 12. | Linux Fundamentals | LearnQuest      | Oct 2023  |     93%       |   17 hours    |     <a href='https://coursera.org/share/f7a7911d904f0e4b3be10e81ade3f95a'> LINK </a>    |
 
 <br>
 
@@ -70,8 +73,9 @@ Having expertise in Machine learning and cybersecurity, I have got the following
 | :-----: | ------------------ | ------------                                      |    :---:  |   :---:             |      :---:        |        :---:   |
 | 1.  | Decade of CPEC & BRI (Conference) | International Conference on Decade of CPEC & BRI: From Vision to Reality        | July 2023 |  Islamabad, Pakistan    | 23-24 July 2023   |  [LINK](https://cpec.gov.pk/conference)   |
 | 2. |  ICETI-2024 (Conference) | 2nd International Conference on Emerging Trends & Innovation (ICETI) | July 2024  |  Islamabad, Pakistan  | 29-30 July 2024   |     [LINK](https://aieys.com/iceti_v2/iceti.html)   |
-| 3. | Cyberus Summer School (Remote) | Cyberus Summer School 2023 (Online)                   | July 2023  |     France     |  3-7 July 2023  |  [LINK](https://master-cyberus.eu/news/conferences/join-the-cyberus-summer-school-2023)    |  |
-| 4. | Cybersecurity Hackathon Workshop | Digital Pakistan Cybersecurity Hackathon Workshop           | Oct 2023  |     Peshawar, Pakistan  | 4-8 Oct 2023   |     [LINK](https://cyberhackathon.pk/)   |
+| 3. |  ASEC 2024 Conference | The 5th International Electronic Conference on Applied Sciences  | Dec 2024  |  Online  | 04-06 Dec 2024  |     [LINK]([https://aieys.com/iceti_v2/iceti.html](https://github.com/YasirISkhan/Files/blob/main/Cert8.pdf))   |
+| 4. | Cyberus Summer School (Remote) | Cyberus Summer School 2023 (Online)                   | July 2023  |     France     |  3-7 July 2023  |  [LINK](https://master-cyberus.eu/news/conferences/join-the-cyberus-summer-school-2023)    |  |
+| 5. | Cybersecurity Hackathon Workshop | Digital Pakistan Cybersecurity Hackathon Workshop           | Oct 2023  |     Peshawar, Pakistan  | 4-8 Oct 2023   |     [LINK](https://cyberhackathon.pk/)   |
 
 
 
@@ -81,7 +85,8 @@ Having expertise in Machine learning and cybersecurity, I have got the following
 |  Sr. No. | Title | Company  | Period | Website Link |
 |  :---    | :---  | :---: | :--- |  :--- |
 |  1.      |  Machine Learning Engineer | Science and Technology & Information Technology (ST&IT) | Nov 2023-Present | <a href="https://stit.kp.gov.pk/">  Website </a> |
-|  2.      |  Visiting CS Lecturer      | Afridi Model School & College                           | May 2024-Present | <a href="https://amscollege.com.pk/">  Website </a> |
+|  2.      |  Research Intern (Machine Learning & Cybersecurity)      | AI Explain You Science    | Oct 2024-Present | <a href="https://aieys.com/">  Website </a> |
+|  3.      |  Research Assistant (ML & Cybersecurity)      | Dr. Muhammad Tufail    | May 2024- Aug 2024             | <a href="">  Website </a> |
 |  3.      |  Young Professional Officer (YPO) | Finance Department, Government of KP             | Nov 2021- Nov 2023 | <a href="https://kprmp.gov.pk/">  Website </a> |
 |  4.      |  AI Curricula Consultant | Science and Technology & Information Technology (ST&IT)      | July 2023    | <a href="https://stit.kp.gov.pk/">  Website </a> |
 
